@@ -2,8 +2,8 @@
 
 
 void setup() {
-  // initialise la broche 13 en sortie numérique
-  // la broche 13 a une LED déjà connectée sur la plupart des cartes Arduino :
+  // initialise la broche 10 et 4 en sortie numérique
+  // 
   pinMode(10, OUTPUT);
   pinMode(4, OUTPUT);
 }
